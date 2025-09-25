@@ -4,3 +4,6 @@
   font-family: "Open Sans", sans-serif;
 }
 
+.border {
+  border: solid 2px red !important;
+}
